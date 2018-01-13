@@ -1,6 +1,6 @@
 # vuex-todo
 
-> A Vue.js project
+> A todo application built with Vue.js and vuex
 
 ## Build Setup
 
